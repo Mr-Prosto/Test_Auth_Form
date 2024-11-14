@@ -1,10 +1,10 @@
 ## Форма регистрации (тестовая)
 
 ### Окно авторизации:
-![width = "400" height = "300"] (1.png)
+![width = "400" height = "300"](1.png)
 
 ### Окно регистрации:
-![width = "400" height = "300"] (2.png)
+![width = "400" height = "300"](2.png)
 
 ### База данных на PostgreSQL:
-![width = "400" height = "300"] (3.png)
+![width = "400" height = "300"](3.png)
